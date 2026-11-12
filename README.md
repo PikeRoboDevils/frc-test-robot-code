@@ -7,7 +7,7 @@ What changed: Added USB drive logging, brake mode in autonomous, the new stall c
   that started this project (bottom of this file).
 -->
 
-# frc-test-bot-platform
+# frc-test-robot-code
 code base for frc test bot
 
 ## NEO 550 Xbox Drive (roboRIO 1) - no vision
